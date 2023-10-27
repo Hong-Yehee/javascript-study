@@ -5,7 +5,8 @@
 // lightweight text-based structure
 // easy to read
 // key-value pairs
-// used for serialization and trasmission of data between the network the network connection// independent programming language and platform
+// used for serialization and trasmission of data between the network the network connection
+// independent programming language and platform
 
 'use strict';
 
