@@ -1,11 +1,11 @@
-// [11] callback
+'use strict';
+
 // 자바스크립트에서는 함수를 콜백 형태의 인자로
 // 다른 함수에 전달하거나 변수에 할당할 수 있다.
 
 // JavaScript is synchronous.
 // Execute the code block in order after hoisting.
 // hoisting: var, function declaration
-'use strict';
 console.log('1');
 setTimeout(() => console.log('2'), 1000); // 1초
 console.log('3');
