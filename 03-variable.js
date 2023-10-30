@@ -25,7 +25,7 @@ console.log(globalName);
 }
 console.log(age);
 
-// 3. Constant, r(read onl y)
+// 3. Constant, r(read only)
 // use const whenever possible.
 // only use let if variable needs to change.
 const daysInWeek = 7;
